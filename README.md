@@ -1,1 +1,1 @@
-App fronted utilizando ReactJS
+App fronted on ReactJS
